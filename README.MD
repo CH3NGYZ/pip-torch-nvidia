@@ -1,3 +1,3 @@
-# 为中国用户提供的 PyTorch pip 源，通过转换阿里云镜像网页实现可直接安装
+# 面向中国用户的 PyTorch CUDA/Rocm pip 源，将阿里云镜像网页转换为可直接安装的格式
 
-访问：https://pip.ch3ng.top
+请访问：https://pip.ch3ng.top
